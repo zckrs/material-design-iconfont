@@ -1,23 +1,28 @@
 {
   "name": "material-design-iconfont",
+  "description": "Material Design Icons",
   "version": "0.0.3",
-  "homepage": "https://github.com/zckrs/material-design-iconfont",
-  "authors": [
-    "Mehdy Dara <mdara@eleven-labs.com>"
-  ],
-  "license": "MIT",
   "main": [
-    "fonts/MaterialIcons-Regular.eot",
-    "fonts/MaterialIcons-Regular.svg",
-    "fonts/MaterialIcons-Regular.ttf",
-    "fonts/MaterialIcons-Regular.woff",
-    "fonts/MaterialIcons-Regular.woff2",
     "styles/material-design-iconfont.css"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zckrs/material-design-iconfont.git"
+  },
+  "homepage": "https://github.com/zckrs/material-design-iconfont",
+  "authors": [
+    {"name": "Mehdy Dara", "email": "mdara@eleven-labs.com"}
+  ],
+  "keywords": [
+    "material",
+    "fonts",
+    "icons"
+  ],
+  "license": "MIT",
   "ignore": [
     "**/.*",
-    "node_modules",
     "bower_components",
+    "CONTRIBUTORS.md",
     "test",
     "tests"
   ]

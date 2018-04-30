@@ -7,12 +7,12 @@
   ],
   "license": "MIT",
   "main": [
-    "./iconfont/MaterialIcons-Regular.eot",
-    "./iconfont/MaterialIcons-Regular.svg",
-    "./iconfont/MaterialIcons-Regular.ttf",
-    "./iconfont/MaterialIcons-Regular.woff",
-    "./iconfont/MaterialIcons-Regular.woff2",
-    "./styles/material-design-iconfont.css"
+    "fonts/MaterialIcons-Regular.eot",
+    "fonts/MaterialIcons-Regular.svg",
+    "fonts/MaterialIcons-Regular.ttf",
+    "fonts/MaterialIcons-Regular.woff",
+    "fonts/MaterialIcons-Regular.woff2",
+    "styles/material-design-iconfont.css"
   ],
   "ignore": [
     "**/.*",
